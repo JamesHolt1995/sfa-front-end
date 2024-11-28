@@ -11,7 +11,7 @@ export default function ImageTilesWithText() {
 		<div className="overflow-hidden bg-white py-24 sm:py-32">
 			<Container>
 				<div className="max-w-4xl">
-					<h1 className="mt-2 text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl text-balance">
+					<h1 className="mt-2 text-4xl font-semibold tracking-tight text-sfa-blue sm:text-5xl text-balance">
 						Let’s build your resilience to modern slavery and labour
 						exploitation
 					</h1>
@@ -26,7 +26,7 @@ export default function ImageTilesWithText() {
 				</div>
 				<section className="mt-10 grid grid-cols-1 lg:grid-cols-2 lg:gap-x-8 lg:gap-y-16">
 					<div className="lg:pr-8">
-						<h2 className="text-pretty text-2xl font-semibold tracking-tight text-gray-900">
+						<h2 className="text-pretty text-2xl font-semibold tracking-tight text-sfa-blue">
 							Your critical friend
 						</h2>
 						<p className="mt-6 text-lg text-sfa-blue-500 mb-10">

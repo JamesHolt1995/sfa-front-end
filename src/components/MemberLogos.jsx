@@ -13,6 +13,10 @@ import LiverpoolAirportLogo from "@/img/Liverpool_Airport_Logo.svg";
 import CurrysLogo from "@/img/Currys_Logo.svg";
 import SevernTrentLogo from "@/img/SevernTrent.svg";
 import UnitedUtilitiesLogo from "@/img/United_Utilities_logo.svg";
+import BiffaLogo from "@/img/biffa.svg";
+import ExperianLogo from "@/img/Experian_logo.svg";
+import ScottishPowerLogo from "@/img/scottish-power.svg";
+import HomeserveLogo from "@/img/homeserve-vector-logo.svg";
 
 const memberLogos = [
 	{ name: "United Utilities", image: UnitedUtilitiesLogo },
@@ -27,6 +31,10 @@ const memberLogos = [
 	{ name: "Currys", image: CurrysLogo },
 	{ name: "Severn Trent", image: SevernTrentLogo },
 	{ name: "YODEL", image: YodelLogo },
+	{ name: "Biffa", image: BiffaLogo },
+	{ name: "Experian", image: ExperianLogo },
+	{ name: "Scottish Power", image: ScottishPowerLogo },
+	{ name: "HomeServe", image: HomeserveLogo },
 ];
 
 export default function MemberLogos() {
